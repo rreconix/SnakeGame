@@ -61,13 +61,13 @@ body{
 }
 
 .snake{
-    background-color: darkblue;
-    border: 1px solid darkblue;
+    background-color: #4977ee;
+    border: 1px solid #4977ee;
 }
 
 .apple{
     height: 100%;
     width: 100%;
-    transform: scale(1.25);
+    transform: scale(1.40);
 }
 
